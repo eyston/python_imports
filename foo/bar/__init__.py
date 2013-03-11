@@ -1,4 +1,4 @@
 # comment / uncomment this line to break
-import file1
+import foo.bar.file1
 
 bar_thing = "bar"
